@@ -28,7 +28,7 @@
     "fusioncharts": "^3.15.0-sr.1",
     "nodemailer": "^6.4.2",
     "passport": "^0.4.1",
-    "passport-saml": "^1.2.0",
+    "passport-saml": "^3.2.2",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "typescript": "~3.5.3",
